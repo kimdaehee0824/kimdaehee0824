@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kimdaehee0824
 - 👀 I’m interested in Apple
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on DSM
 - 📫 How to reach me 0824dh@naver.com
 
 <!---
