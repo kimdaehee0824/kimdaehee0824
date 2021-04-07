@@ -1,3 +1,5 @@
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaehee0824)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @kimdaehee0824
 - 👀 I’m interested in Apple
 - 🌱 I’m currently learning Swift
