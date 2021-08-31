@@ -1,8 +1,7 @@
+# Daehee Kim
+### _IOS Developer_
 
-- 🇰🇷 김대희(KimDaeHee)
-- 📱 I'm a slave to Apple products.
 
-<!---
-kimdaehee0824/kimdaehee0824 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<center>![](https://img.shields.io/badge/Swift-FA7343.svg?&style=for-the-badge&logo=Swift&logoColor=white)  ![](https://img.shields.io/badge/SwiftUI-2480E6.svg?&style=for-the-badge&logo=Swift&logoColor=white)</center> 
