@@ -25,11 +25,19 @@ I am attending Daedeok Software Meister High School and I am learning C/C++ at s
 #### Tools
 <div>
   
-  ![](https://img.shields.io/badge/Xcode-147EFB?&style=flat-square&logo=Xcode&logoColor=white)
-![Swift Badge](https://img.shields.io/badge/Clion-000000?&style=flat-square&logo=Clion&logoColor=white)
+   ![](https://img.shields.io/badge/Xcode-147EFB?&style=flat-square&logo=Xcode&logoColor=white)
+  ![Swift Badge](https://img.shields.io/badge/Clion-000000?&style=flat-square&logo=Clion&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/VSCode-007ACC?&style=flat-square&logo=VisualStudioCode&logoColor=white)
   ![Swift Badge](https://img.shields.io/badge/GitKraken-179287?&style=flat-square&logo=GitKraken&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/git-F05032?&style=flat-square&logo=Git&logoColor=white)
  ![Swift Badge](https://img.shields.io/badge/CocoaPods-EE3322?&style=flat-square&logo=CocoaPods&logoColor=white)
+  
+</div>
+
+#### Learning
+<div>
+  
+   ![](https://img.shields.io/badge/RxSwift-A9225C?&style=flat-square&logo=Swift&logoColor=white)
+   ![](https://img.shields.io/badge/SnapKit-0099E5?&style=flat-square&logo=Swift&logoColor=white)
   
 </div>
