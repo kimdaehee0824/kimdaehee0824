@@ -34,10 +34,3 @@ I am attending Daedeok Software Meister High School and I am learning C/C++ at s
   
 </div>
 
-#### Learning
-<div>
-  
-   ![](https://img.shields.io/badge/RxSwift-A9225C?&style=flat-square&logo=Swift&logoColor=white)
-   ![](https://img.shields.io/badge/SnapKit-0099E5?&style=flat-square&logo=Swift&logoColor=white)
-  
-</div>
