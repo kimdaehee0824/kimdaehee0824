@@ -17,6 +17,7 @@ I am attending Daedeok Software Meister High School and I am learning C/C++ at s
   
 ![](https://img.shields.io/badge/IOS-000000?&style=flat-square&logo=IOS&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?&style=flat-square&logo=Swift&logoColor=white)
+  ![Swift Badge](https://img.shields.io/badge/RxSwift-EE3322?&style=flat-square&logo=Swift&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/SwiftUI-2D2E83?&style=flat-square&logo=Swift&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/C/C++-00599C?&style=flat-square&logo=C&logoColor=white)
 </div>
