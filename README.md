@@ -8,7 +8,7 @@
   </a>
 
 <p>
-  👋&nbsp; Hi there! I am Daehee Kim and I am probably IOS developer.<br/>
+  👋&nbsp; Hi there! I am Daehee Kim and I am lerning IOS developer.<br/>
 I am attending Daedeok Software Meister High School and I am learning C/C++ at school.<br/><br/>
 </p>
 
@@ -34,4 +34,3 @@ I am attending Daedeok Software Meister High School and I am learning C/C++ at s
  ![Swift Badge](https://img.shields.io/badge/CocoaPods-EE3322?&style=flat-square&logo=CocoaPods&logoColor=white)
   
 </div>
-
