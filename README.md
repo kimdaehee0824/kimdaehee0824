@@ -10,6 +10,7 @@
 <p>
   👋&nbsp; Hi there! I am Daehee Kim and I am lerning IOS developer.<br/>
 I am attending Daedeok Software Meister High School and I am learning C/C++ at school.<br/><br/>
+ I'm tried
 </p>
 
 ### Skills
