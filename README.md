@@ -13,6 +13,7 @@ I am attending Daedeok Software Meister High School and I am learning C/C++ at s
 </p>
 
 I can't coding because it's New Year's Day.
+I'm going to work from tomorrow.
 
 ### Skills
 #### Platforms & Languages
