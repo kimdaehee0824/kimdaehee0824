@@ -9,9 +9,13 @@
   </a>
 
 <p>
+ 
   👋&nbsp; Hi there! I am Daehee Kim and I am lerning IOS developer.<br/>
-I am attending Daedeok Software Meister High School and I am learning Java & Python at school.<br/><br/>
+  I am attending Daedeok Software Meister High School and I am learning Java & Python at school.
+ 
+ [My portfolio is here.](https://www.craft.do/s/IR1Xn6KPfDkAlp)
 </p>
+
 
 
 ### Skills
