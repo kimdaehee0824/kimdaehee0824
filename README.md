@@ -16,7 +16,7 @@
  [My portfolio is here.](https://www.craft.do/s/IR1Xn6KPfDkAlp)
 </p>
 
-It's the second day of the trip.
+It's the last day of the trip.
 
 ### Skills
 #### Platforms & Languages
