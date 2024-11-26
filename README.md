@@ -5,7 +5,6 @@
 
 <p>
 👋&nbsp;Hi there! I'm Daehee Kim.</br>
-
-  I'm an iOS developer and a graduate of Daedeok Software Meister High School, currently working at Cashwalk.inc.</br>
-I have a strong passion for development, especially in iOS. Recently, I've also developed an interest in architecture and interior design.
+I’m an iOS developer and a graduate of Daedeok Software Meister High School, currently working at Cashwalk.inc.
+I have a strong passion for development, especially in iOS. Lately, I’ve been focusing on embracing new challenges and broadening my horizons in different fields.
 </p>
